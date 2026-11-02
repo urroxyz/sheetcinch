@@ -4,7 +4,39 @@ Cinch allows you to customize native Android UI seamlessly, without root or Shiz
 ## No root, no Shizuku — how does it work?
 Cinch does not modify the UI on the OS level. Instead, it functionally replaces it.
 
-Using Accessibility Services, Cinch is able to (1) **detect** when you've done something to trigger a native UI sheet, (2) take the content from *below* that sheet and broadcast it in real time *above* the sheet, effectively **disappearing** the native UI solution, and then (3) **display** your own custom UI in its absence! _Detect • Disappear • Display!_
+Using Accessibility Services, Cinch is able to (1) **detect** when you've done something to trigger a native UI sheet, (2) take the content from *below* that sheet and broadcast it in real time *above* the sheet, effectively **disappearing** the native UI solution, and then (3) **display** your own custom UI in its absence!
+
+<p align="center">
+<i>Detect • Disappear • Display!</i>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./d1.webp" alt="Detect" width="200">
+    </td>
+    <td align="center" width="33%">
+      <img src="./d2.webp" alt="Disappear" width="200">
+    </td>
+    <td align="center" width="33%">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>detect</strong>
+      <p>Trigger Cinch when a native Android UI sheet to replace is about to appear.</p>
+    </td>
+    <td align="center" valign="top">
+      <strong>disappear</strong>
+      <p>Conceal the native Android UI by taking the content from underneath it and pulling it to the front.</p>
+    </td>
+    <td align="center" valign="top">
+      <strong>display</strong>
+      <p>Render your custom UI design in its place!</p>
+    </td>
+  </tr>
+</table>
 
 Well, there's a little more to it than that, but that's the important stuff.
 
