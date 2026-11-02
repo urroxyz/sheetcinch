@@ -12,3 +12,18 @@ Well, there's a little more to it than that, but that's the important stuff.
 Cinch requires `Accessibility Services` and `Display Over Other Apps`. I wish there were an easier way, but unfortunately these are the minimum permissions needed for the majority of Cinch's functionality.
 
 ADB is **not** an absolute requirement. However, if you are able to use it just once, it can aid in the setup for some features. No embedded ADB server (like Shizuku) is required per UI instance or continuously whatsoever.
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+<div align="right">
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+</div>
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/ʟɪᴄᴇɴꜱᴇ-CC%20BY%204.0-FFFFFF?labelColor=000000
