@@ -1,5 +1,11 @@
 # SheetCinch
-Cinch allows you to customize native Android UI seamlessly, without root or Shizuku.
+
+<p align="center">
+  <img src="./cinch_logo.svg" alt="Logo" width="200">
+  <br><i>Fit your sheets. No root. No Shizuku.</i>
+</p>
+
+Cinch allows you to customize native Android UI seamlessly with your phone's canonical Accessibility Services, giving the control back to the user.
 
 ## No root, no Shizuku — how does it work?
 Cinch does not modify the UI on the OS level. Instead, it functionally replaces it.
